@@ -11,3 +11,8 @@ Activity 2
 Activity 3
 
 ![image](https://user-images.githubusercontent.com/22103819/190865868-87054eda-acdf-4795-a97b-23d752243d81.png)
+
+Activity 4
+
+https://github.com/vedantprajapati/ECE444-F2022-Lab1
+![image](https://user-images.githubusercontent.com/22103819/190869505-f2f5367f-d611-41b2-98be-0db98f4b4ed9.png)
