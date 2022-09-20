@@ -41,3 +41,7 @@ Activity 8
 ![image](https://user-images.githubusercontent.com/22103819/191379357-c3071136-71df-404d-aad0-099780db8435.png)
 
 ![image](https://user-images.githubusercontent.com/22103819/191379150-5c51989b-124e-4ff5-8db3-8115bbb4b32c.png)
+
+Activity 9
+
+This is the final version of the README file for lab 1 with all the screenshots and links needed.
