@@ -29,7 +29,7 @@ Activity 5
 
 Activity 6
 
-https://github.com/KyleBlackie/ECE444-F2022-EP/blob/main/README.md
+https://github.com/KyleBlackie/ECE444-F2022-EP
 
 Activity 7
 
