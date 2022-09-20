@@ -25,3 +25,6 @@ Activity 5
 
 ![image](https://user-images.githubusercontent.com/22103819/191373389-d30edd13-73f7-409b-8916-5e3f66bb7966.png)
 
+Activity 6
+
+https://github.com/KyleBlackie/ECE444-F2022-EP/blob/main/README.md
